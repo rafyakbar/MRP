@@ -1,0 +1,48 @@
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\bin\Debug\LoginMRP.exe.config
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\bin\Debug\LoginMRP.exe
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\bin\Debug\LoginMRP.pdb
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\bin\Debug\Models.dll
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\bin\Debug\Models.pdb
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\obj\Debug\Views.csprojResolveAssemblyReference.cache
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\obj\Debug\LoginMRP.LoginGUI.resources
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\obj\Debug\LoginMRP.MarketingGUI.resources
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\obj\Debug\LoginMRP.Properties.Resources.resources
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\obj\Debug\Views.csproj.GenerateResource.Cache
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\obj\Debug\LoginMRP.exe
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\obj\Debug\LoginMRP.pdb
+C:\Users\Lab MMK\Downloads\LoginMRP\LoginMRP\bin\Debug\LoginMRP.exe.config
+C:\Users\Lab MMK\Downloads\LoginMRP\LoginMRP\obj\Debug\LoginMRP.exe
+C:\Users\Lab MMK\Downloads\LoginMRP\LoginMRP\obj\Debug\LoginMRP.pdb
+C:\Users\Lab MMK\Downloads\LoginMRP\LoginMRP\bin\Debug\LoginMRP.exe
+C:\Users\Lab MMK\Downloads\LoginMRP\LoginMRP\bin\Debug\LoginMRP.pdb
+C:\Users\Lab MMK\Downloads\LoginMRP\LoginMRP\bin\Debug\Models.dll
+C:\Users\Lab MMK\Downloads\LoginMRP\LoginMRP\bin\Debug\Models.pdb
+C:\Users\Lab MMK\Downloads\LoginMRP\LoginMRP\obj\Debug\Views.csprojResolveAssemblyReference.cache
+C:\Users\Lab MMK\Downloads\LoginMRP\LoginMRP\obj\Debug\LoginMRP.LoginGUI.resources
+C:\Users\Lab MMK\Downloads\LoginMRP\LoginMRP\obj\Debug\LoginMRP.MarketingGUI.resources
+C:\Users\Lab MMK\Downloads\LoginMRP\LoginMRP\obj\Debug\LoginMRP.Properties.Resources.resources
+C:\Users\Lab MMK\Downloads\LoginMRP\LoginMRP\obj\Debug\Views.csproj.GenerateResource.Cache
+E:\LoginMRP\LoginMRP\bin\Debug\LoginMRP.exe.config
+E:\LoginMRP\LoginMRP\obj\Debug\LoginMRP.exe
+E:\LoginMRP\LoginMRP\obj\Debug\LoginMRP.pdb
+E:\LoginMRP\LoginMRP\obj\Debug\Views.csprojResolveAssemblyReference.cache
+E:\LoginMRP\LoginMRP\obj\Debug\LoginMRP.LoginGUI.resources
+E:\LoginMRP\LoginMRP\obj\Debug\LoginMRP.MarketingGUI.resources
+E:\LoginMRP\LoginMRP\obj\Debug\LoginMRP.Properties.Resources.resources
+E:\LoginMRP\LoginMRP\obj\Debug\Views.csproj.GenerateResource.Cache
+E:\LoginMRP\LoginMRP\bin\Debug\LoginMRP.exe
+E:\LoginMRP\LoginMRP\bin\Debug\LoginMRP.pdb
+E:\LoginMRP\LoginMRP\bin\Debug\Models.dll
+E:\LoginMRP\LoginMRP\bin\Debug\Models.pdb
+D:\LoginMRP\LoginMRP\bin\Debug\LoginMRP.exe.config
+D:\LoginMRP\LoginMRP\obj\Debug\LoginMRP.exe
+D:\LoginMRP\LoginMRP\obj\Debug\LoginMRP.pdb
+D:\LoginMRP\LoginMRP\bin\Debug\LoginMRP.exe
+D:\LoginMRP\LoginMRP\bin\Debug\LoginMRP.pdb
+D:\LoginMRP\LoginMRP\bin\Debug\Models.dll
+D:\LoginMRP\LoginMRP\bin\Debug\Models.pdb
+D:\LoginMRP\LoginMRP\obj\Debug\Views.csprojResolveAssemblyReference.cache
+D:\LoginMRP\LoginMRP\obj\Debug\LoginMRP.LoginGUI.resources
+D:\LoginMRP\LoginMRP\obj\Debug\LoginMRP.MarketingGUI.resources
+D:\LoginMRP\LoginMRP\obj\Debug\LoginMRP.Properties.Resources.resources
+D:\LoginMRP\LoginMRP\obj\Debug\Views.csproj.GenerateResource.Cache

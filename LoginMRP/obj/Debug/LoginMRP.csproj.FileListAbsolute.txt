@@ -1,0 +1,11 @@
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\bin\Debug\LoginMRP.exe.config
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\bin\Debug\LoginMRP.exe
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\bin\Debug\LoginMRP.pdb
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\obj\Debug\LoginMRP.csprojResolveAssemblyReference.cache
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\obj\Debug\LoginMRP.Properties.Resources.resources
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\obj\Debug\LoginMRP.csproj.GenerateResource.Cache
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\obj\Debug\LoginMRP.exe
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\obj\Debug\LoginMRP.pdb
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\bin\Debug\Models.dll
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\bin\Debug\Models.pdb
+c:\users\rafy\documents\visual studio 2015\Projects\LoginMRP\LoginMRP\obj\Debug\LoginMRP.LoginGUI.resources
