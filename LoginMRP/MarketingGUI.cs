@@ -40,7 +40,7 @@ namespace LoginMRP
             kertasMasterPanel.AutoScroll = true;
             kertasMasterPanel.ResumeLayout();
             kertasMasterPanel.Controls.Add(new Label() { Text = "ply" });
-            kertasMasterPanel.Controls.Add(new Label() { Text = "kode item kertas" });
+            kertasMasterPanel.Controls.Add(new Label() { Text = "jenis kertas" });
             kertasMasterPanel.Controls.Add(new Label() { Text = "warna kertas" });
             kertasMasterPanel.Controls.Add(new Label() { Text = "jumlah warna" });
 
@@ -184,6 +184,10 @@ namespace LoginMRP
             for (int c = 8; c <= 24; c++)
             {
                 foldingComboBox.Items.Add(c + "");
+                if (c == 8 || c==9)
+                {
+                    foldingComboBox.Items.Add(c + ",5");
+                }
             }
         }
 
@@ -518,6 +522,11 @@ namespace LoginMRP
         }
 
         private void kodeProdukComboBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabPage2_Click(object sender, EventArgs e)
         {
 
         }

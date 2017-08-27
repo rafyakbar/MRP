@@ -13,3 +13,8 @@ E:\LoginMRP\Models\bin\Debug\Models.pdb
 E:\LoginMRP\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
 E:\LoginMRP\Models\obj\Debug\Models.dll
 E:\LoginMRP\Models\obj\Debug\Models.pdb
+C:\Users\Lab MMK\Documents\Yusuf\MRP\Models\bin\Debug\Models.dll
+C:\Users\Lab MMK\Documents\Yusuf\MRP\Models\bin\Debug\Models.pdb
+C:\Users\Lab MMK\Documents\Yusuf\MRP\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\Lab MMK\Documents\Yusuf\MRP\Models\obj\Debug\Models.dll
+C:\Users\Lab MMK\Documents\Yusuf\MRP\Models\obj\Debug\Models.pdb

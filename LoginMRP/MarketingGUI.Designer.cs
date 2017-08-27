@@ -31,6 +31,7 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MarketingGUI));
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.kodeProdukComboBox = new System.Windows.Forms.ComboBox();
             this.satuanLebarComboBox = new System.Windows.Forms.ComboBox();
             this.satuanPanjangComboBox = new System.Windows.Forms.ComboBox();
             this.tambahKolomButton = new System.Windows.Forms.Button();
@@ -155,7 +156,6 @@
             this.label65 = new System.Windows.Forms.Label();
             this.label66 = new System.Windows.Forms.Label();
             this.label67 = new System.Windows.Forms.Label();
-            this.kodeProdukComboBox = new System.Windows.Forms.ComboBox();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
@@ -225,6 +225,15 @@
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Item Master Barang Jadi";
             this.tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // kodeProdukComboBox
+            // 
+            this.kodeProdukComboBox.FormattingEnabled = true;
+            this.kodeProdukComboBox.Location = new System.Drawing.Point(93, 13);
+            this.kodeProdukComboBox.Name = "kodeProdukComboBox";
+            this.kodeProdukComboBox.Size = new System.Drawing.Size(175, 21);
+            this.kodeProdukComboBox.TabIndex = 54;
+            this.kodeProdukComboBox.SelectedIndexChanged += new System.EventHandler(this.kodeProdukComboBox_SelectedIndexChanged);
             // 
             // satuanLebarComboBox
             // 
@@ -644,6 +653,7 @@
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Sales Order";
             this.tabPage2.UseVisualStyleBackColor = true;
+            this.tabPage2.Click += new System.EventHandler(this.tabPage2_Click);
             // 
             // approvedLabel_so
             // 
@@ -743,9 +753,9 @@
             // isiSOTextBox
             // 
             this.isiSOTextBox.Enabled = false;
-            this.isiSOTextBox.Location = new System.Drawing.Point(481, 132);
+            this.isiSOTextBox.Location = new System.Drawing.Point(507, 132);
             this.isiSOTextBox.Name = "isiSOTextBox";
-            this.isiSOTextBox.Size = new System.Drawing.Size(150, 20);
+            this.isiSOTextBox.Size = new System.Drawing.Size(124, 20);
             this.isiSOTextBox.TabIndex = 54;
             // 
             // jumlahPlySOTextBox
@@ -759,9 +769,9 @@
             // ukuranSOTextBox
             // 
             this.ukuranSOTextBox.Enabled = false;
-            this.ukuranSOTextBox.Location = new System.Drawing.Point(481, 158);
+            this.ukuranSOTextBox.Location = new System.Drawing.Point(507, 158);
             this.ukuranSOTextBox.Name = "ukuranSOTextBox";
-            this.ukuranSOTextBox.Size = new System.Drawing.Size(150, 20);
+            this.ukuranSOTextBox.Size = new System.Drawing.Size(124, 20);
             this.ukuranSOTextBox.TabIndex = 47;
             // 
             // namaSalesTextBox
@@ -880,11 +890,11 @@
             // label35
             // 
             this.label35.AutoSize = true;
-            this.label35.Location = new System.Drawing.Point(436, 161);
+            this.label35.Location = new System.Drawing.Point(431, 161);
             this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(42, 13);
+            this.label35.Size = new System.Drawing.Size(70, 13);
             this.label35.TabIndex = 48;
-            this.label35.Text = "Ukuran";
+            this.label35.Text = "Ukuran (l x p)";
             // 
             // label34
             // 
@@ -1374,15 +1384,6 @@
             this.label67.Size = new System.Drawing.Size(69, 13);
             this.label67.TabIndex = 74;
             this.label67.Text = "Kode Produk";
-            // 
-            // kodeProdukComboBox
-            // 
-            this.kodeProdukComboBox.FormattingEnabled = true;
-            this.kodeProdukComboBox.Location = new System.Drawing.Point(93, 13);
-            this.kodeProdukComboBox.Name = "kodeProdukComboBox";
-            this.kodeProdukComboBox.Size = new System.Drawing.Size(175, 21);
-            this.kodeProdukComboBox.TabIndex = 54;
-            this.kodeProdukComboBox.SelectedIndexChanged += new System.EventHandler(this.kodeProdukComboBox_SelectedIndexChanged);
             // 
             // MarketingGUI
             // 

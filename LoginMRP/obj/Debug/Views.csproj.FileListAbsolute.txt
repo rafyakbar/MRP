@@ -46,3 +46,15 @@ D:\LoginMRP\LoginMRP\obj\Debug\LoginMRP.LoginGUI.resources
 D:\LoginMRP\LoginMRP\obj\Debug\LoginMRP.MarketingGUI.resources
 D:\LoginMRP\LoginMRP\obj\Debug\LoginMRP.Properties.Resources.resources
 D:\LoginMRP\LoginMRP\obj\Debug\Views.csproj.GenerateResource.Cache
+C:\Users\Lab MMK\Documents\Yusuf\MRP\LoginMRP\bin\Debug\LoginMRP.exe.config
+C:\Users\Lab MMK\Documents\Yusuf\MRP\LoginMRP\bin\Debug\LoginMRP.exe
+C:\Users\Lab MMK\Documents\Yusuf\MRP\LoginMRP\bin\Debug\LoginMRP.pdb
+C:\Users\Lab MMK\Documents\Yusuf\MRP\LoginMRP\bin\Debug\Models.dll
+C:\Users\Lab MMK\Documents\Yusuf\MRP\LoginMRP\bin\Debug\Models.pdb
+C:\Users\Lab MMK\Documents\Yusuf\MRP\LoginMRP\obj\Debug\Views.csprojResolveAssemblyReference.cache
+C:\Users\Lab MMK\Documents\Yusuf\MRP\LoginMRP\obj\Debug\LoginMRP.LoginGUI.resources
+C:\Users\Lab MMK\Documents\Yusuf\MRP\LoginMRP\obj\Debug\LoginMRP.MarketingGUI.resources
+C:\Users\Lab MMK\Documents\Yusuf\MRP\LoginMRP\obj\Debug\LoginMRP.Properties.Resources.resources
+C:\Users\Lab MMK\Documents\Yusuf\MRP\LoginMRP\obj\Debug\Views.csproj.GenerateResource.Cache
+C:\Users\Lab MMK\Documents\Yusuf\MRP\LoginMRP\obj\Debug\LoginMRP.exe
+C:\Users\Lab MMK\Documents\Yusuf\MRP\LoginMRP\obj\Debug\LoginMRP.pdb
